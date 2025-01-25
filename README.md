@@ -1,3 +1,4 @@
-# Hackerrank
+# Java Algorithm Solutions
 
-Repository of resolutions of exercises for hackerrank# hackerrank
+My solutions for coding platform challenges in Java
+
